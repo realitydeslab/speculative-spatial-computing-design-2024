@@ -1,4 +1,4 @@
-# speculative-spatial-computing-design-2024
+# Speculative Spatial Computing Design 2024
 
 ## Course Title
 Speculative Spatial Computing Design -- Envisioning Entangled Realities
